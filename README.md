@@ -47,10 +47,10 @@ The project uses the famous Titanic dataset, which includes the following featur
 - [ ] Predictions on test data
 
 ## Project Structure
-├── data/
-│ ├── train.csv 
-│ └── test.csv 
-└── sample.ipynb
+├── data/<br>
+│ ├── train.csv<br> 
+│ └── test.csv <br>
+└── sample.ipynb<br>
 
 
 ## Work in Progress
